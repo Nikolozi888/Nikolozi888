@@ -13,6 +13,8 @@ Hi there! 👋 I'm Nika, a Junior Back-End Developer with a passion for build dy
 -   PHP
 -   Laravel
 -   MySQL
+-   Algorithms
+-   Data Sturctures
 
 ### Projects
 
