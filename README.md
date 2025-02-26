@@ -3,7 +3,7 @@
 
 ### About Me
 
-Hi there! 👋 I'm Nika, a Junior Back-End Developer with a passion for build dynamic and efficient web applications. My expertise spans both front-end(only markup) and back-end development.
+Hi there! 👋 I'm Nika, a Junior Back-End Developer with a passion for build dynamic and efficient web applications. My expertise spans both front-end(basic of javascript) and back-end development.
 
 ### Skills 🎓
 
@@ -18,16 +18,11 @@ Hi there! 👋 I'm Nika, a Junior Back-End Developer with a passion for build dy
 
 ### Projects
 
-#### E-commerce
-
--   **Technologies Used:** PHP, Laravel, HTML, CSS, Tailwind CSS
--   **Description:** A fully functional e-commerce site with an admin panel for managing products, categories, and administrators.
-
-#### Personal Blog
-
--   **Technologies Used:** PHP, Laravel, HTML, CSS, Tailwind CSS
--   **Description:** A blog site with features such as post creation, commenting, tagging, and category management. It also includes an admin panel for managing posts and user comments.
-
+-   **Portfolio Website** – A personal portfolio showcasing my skills and projects  
+-   **Blog System** – A dynamic blogging platform built with Laravel  
+-   **E-commerce Platform** – An online store with cart functionality, checkout, and an admin panel  
+-   **Car Selling Website** – A vehicle listing and purchasing system  
+-   **Several Other Projects** – Additional web applications and features implemented to enhance my development skills  
 
 I also have some front-end pages.
 
