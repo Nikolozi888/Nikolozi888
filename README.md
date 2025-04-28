@@ -3,7 +3,9 @@
 
 ### About Me
 
-Hi there! 👋 I'm Nika, a Junior Back-End Developer with a passion for build dynamic and efficient web applications. My expertise spans both front-end(basic of javascript) and back-end development.
+Hi there! 👋 I'm Niko, a Junior Back-End Developer, Aspiring PHP/Laravel developer with a solid foundation in web development, eager to gain hands-on experience through
+an internship. Passionate about building scalable web applications and continuously improving my coding skills by
+working on real-world projects.
 
 ### Skills 🎓
 
