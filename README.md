@@ -5,7 +5,7 @@
 
 Hi there! 👋 I'm Niko, a Junior Back-End Developer, Aspiring PHP/Laravel developer with a solid foundation in web development, eager to gain hands-on experience through
 an internship. Passionate about building scalable web applications and continuously improving my coding skills by
-working on real-world projects.
+working on real-world projects, With a 5-month internship which is not finished.
 
 ### Skills 🎓
 
