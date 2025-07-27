@@ -15,6 +15,7 @@ working on real-world projects, With a 5-month internship which is not finished.
 -   PHP
 -   Laravel
 -   MySQL
+-   Rest API
 -   Algorithms
 -   Data Sturctures
 
