@@ -5,7 +5,7 @@
 
 Hi there! 👋 I'm Niko, a Junior Back-End Developer, Aspiring PHP/Laravel developer with a solid foundation in web development, eager to gain hands-on experience through
 an internship. Passionate about building scalable web applications and continuously improving my coding skills by
-working on real-world projects, With a 7-month internship, which is not finished.
+working on real-world projects.
 
 ### Skills 🎓
 
@@ -16,12 +16,11 @@ working on real-world projects, With a 7-month internship, which is not finished
 -   Laravel
 -   MySQL
 -   Rest APIs
--   Algorithms
--   Data Sturctures
+-   LeetCode Algorithms
 
 ### Projects
 
--   **Portfolio Website** – A personal portfolio showcasing my skills and projects  
+-   **Portfolio Website** – A personal portfolio showcasing, use template
 -   **Blog System** – A dynamic blogging platform built with Laravel  
 -   **E-commerce Platform** – An online store with cart functionality, checkout, and an admin panel  
 -   **Car Selling Website** – A vehicle listing and purchasing system  
